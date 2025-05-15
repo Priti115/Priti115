@@ -4,10 +4,16 @@
 </p>
 
 
-
-<!-- ⌨️ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F70060&center=true&vCenter=true&width=600&lines=Data+Science+Explorer+%7C+AI+%7C+ML+%7C+SQL;Late-night+Coder+%7C+Cricket+Fan+%7C+Artist;Building+solutions+with+code+and+creativity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0072ff&center=true&width=600&lines=Data+Science+Explorer;AI+%7C+ML+%7C+SQL;Late-night+Coder+%7C+Cricket+Fan;Creative+Painter" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
