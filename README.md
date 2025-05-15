@@ -1,11 +1,12 @@
 <!-- 🎉 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:#db4b9d,100:00c6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Pritidarshini%20Biswal&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20|%20AI%20Enthusiast&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Pritidarshini%20Biswal&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20|%20AI%20Enthusiast&descAlignY=65&descAlign=50" />
 </p>
 
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0072ff&center=true&width=600&lines=Data+Science+Explorer;AI+%7C+ML+%7C+SQL;Late-night+Coder+%7C+Cricket+Fan;Creative+Painter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=e34685&center=true&width=600&lines=Data+Science+Explorer;AI+%7C+ML+%7C+SQL;Late-night+Coder+%7C+Cricket+Fan;Creative+Painter" />
 </p>
 
 ---
