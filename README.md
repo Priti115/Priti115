@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pritidarshini Biswal</h1>
-<h3 align="center">B.Tech CSE Student | Future Data Scientist | AI & ML Enthusiast</h3>
-
 <!-- 🎉 Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc6076,100:ff9a44&height=250&section=header&text=Hi%20👋,%20I'm%20Pritidarshini%20Biswal&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Aspiring%20Data%20Scientist%20|%20AI%20%26%20ML%20Enthusiast&descSize=20&descAlign=50&descAlignY=65" />
 </p>
+
 
 <!-- ⌨️ Typing Effect -->
 <p align="center">
