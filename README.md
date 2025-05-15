@@ -64,7 +64,7 @@ Created a dashboard to analyze voter behavior and predict election outcomes.
 
 ---
 
-### 📊 GitHub Stats (Live & Real-Time)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priti115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
@@ -72,7 +72,7 @@ Created a dashboard to analyze voter behavior and predict election outcomes.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priti115&theme=react-dark&hide_border=true&area=true&custom_title=🔥%20My%20Contribution%20Graph%20(Views%20Real-time!)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priti115&theme=react-dark&hide_border=true&area=true&custom_title=🔥%20My%20Contribution%20Graph%20" />
 </p>
 
 ---
@@ -87,5 +87,5 @@ Created a dashboard to analyze voter behavior and predict election outcomes.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9a44&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9a44&height=200&section=footer&text=Thank%20You!!"/>
 </p>
