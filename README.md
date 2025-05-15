@@ -1,7 +1,8 @@
 <!-- 🎉 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc6076,100:ff9a44&height=250&section=header&text=Hi%20👋,%20I'm%20Pritidarshini%20Biswal&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Aspiring%20Data%20Scientist%20|%20AI%20%26%20ML%20Enthusiast&descSize=20&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc6076,100:ff9a44&height=250&section=header&text=Hi%20👋,%20I'm%20Pritidarshini%20Biswal&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=45&amp;desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20ML%20Enthusiast&amp;descSize=20&amp;descAlign=50&amp;descAlignY=65" />
 </p>
+
 
 
 <!-- ⌨️ Typing Effect -->
