@@ -82,6 +82,14 @@ Analyzed Diwali retail sales data to optimize product categories and inventory.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priti115&layout=compact&theme=radical" width="45%"/>
 </p>
 
+
+## 📈 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priti115&theme=radical&area=true" />
+</p>
+
+
 ---
 
 ### 🤝 Let's Connect
