@@ -1,19 +1,11 @@
 <!-- 🎉 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Pritidarshini%20Biswal&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20|%20AI%20Enthusiast&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:#db4b9d,100:00c6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Pritidarshini%20Biswal&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20|%20AI%20Enthusiast&descAlignY=65&descAlign=50" />
 </p>
 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0072ff&center=true&width=600&lines=Data+Science+Explorer;AI+%7C+ML+%7C+SQL;Late-night+Coder+%7C+Cricket+Fan;Creative+Painter" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
