@@ -85,7 +85,7 @@ Created a dashboard to analyze voter behavior and predict election outcomes.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pritidarshini-biswal-24414028a/)  
 - 📧 Email: pritidarshini.biswal2006@gmail.com  
 - 🗺️ Based in: Delhi, India  
-- 🌐 Portfolio: ([euphonious-treacle-8c4965.netlify.app](https://euphonious-treacle-8c4965.netlify.app/))
+- 🌐 Portfolio: [euphonious-treacle-8c4965.netlify.app](https://euphonious-treacle-8c4965.netlify.app/)
 
 ---
 
