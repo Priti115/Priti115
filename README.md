@@ -16,6 +16,7 @@
 ⚡ Fun fact: I love late-night coding, painting, watching cricket, and reading <br>
 🎯 Mission: To become a leading force in Data Science and make tech more impactful
 </p>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -50,13 +51,23 @@ Analyzed pizza order patterns to reveal top sellers, revenue trends, and size pr
 Built an interactive Power BI dashboard to analyze attrition trends and employee data.  
 ✅ Tools: Power BI, Excel
 
-#### 🛏️ [Hotel Booking Cancellation Analysis](https://github.com/Priti115/Hotel_Cancelation)
+#### 🛎️ [Hotel Booking Cancellation Analysis](https://github.com/Priti115/Hotel_Cancelation)
 Uncovered cancellation factors through EDA to help optimize booking policies.  
 ✅ Tools: Python, Pandas, Seaborn
 
 #### 🗳️ [2024 Election Data Analysis (Power BI)](https://www.canva.com/design/DAGeEPWYeuY/bLtuyRnj9DRi1RvdxE77nA/edit)
 Created a dashboard to analyze voter behavior and predict election outcomes.  
 ✅ Tools: Power BI
+
+#### 🔄 [Email Validation & Correction Project](https://github.com/Priti115/Email-Correction)
+Cleaned and validated 160k+ emails using regex, string operations, and Pandas. 
+✅ Tools: Python, Pandas, Regex
+
+#### ✨ [Web Analytics Dashboard](https://github.com/Priti115/Web-Analytics-GA4)
+Analyzed user behavior from GA4-style data and visualized trends using Plotly.  
+✅ Tools: Python, Plotly, Pandas
+
+---
 
 ### 🏆 Achievements & Certifications
 
@@ -84,7 +95,7 @@ Created a dashboard to analyze voter behavior and predict election outcomes.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pritidarshini-biswal-24414028a/)  
 - 📧 Email: pritidarshini.biswal2006@gmail.com  
-- 🗺️ Based in: Delhi, India  
+- 🗌 Based in: Delhi, India  
 - 🌐 Portfolio: [euphonious-treacle-8c4965.netlify.app](https://euphonious-treacle-8c4965.netlify.app/)
 
 ---
