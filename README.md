@@ -1,20 +1,21 @@
 <!-- 🎉 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Pritidarshini%20Biswal&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20|%20AI%20Enthusiast&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Pritidarshini%20Biswal&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20|%20AI%20Enthusiast%20|%20Story%20Lover&descAlignY=65&descAlign=50" />
 </p>
 
 <!-- ⌨️ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=e34685&center=true&width=600&lines=Data+Science+Explorer;AI+%7C+ML+%7C+SQL;Late-night+Coder+%7C+Cricket+Fan;Creative+Painter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=e34685&center=true&width=650&lines=Data+Science+Explorer;AI+%7C+ML+%7C+SQL;Late-night+Coder+%7C+Cricket+Fan;Avid+Novel+Reader+%F0%9F%93%9A;Creative+Painter" />
 </p>
 
 ---
 
 <p align="center">
-🌱 Currently exploring the vast world of Data Science and AI <br>
-💻 I enjoy building real-world solutions using Python, SQL, and Power BI <br>
-⚡ Fun fact: I love late-night coding, painting, watching cricket, and reading <br>
-🎯 Mission: To become a leading force in Data Science and make tech more impactful
+🌱 Exploring Data Science, AI & real-world problem solving <br>
+💻 Building impactful solutions using Python, SQL & Power BI <br>
+📚 Avid novel reader — love thrillers, rom-coms & suspense stories <br>
+⚡ Late-night coder | 🎨 Painter | 🏏 Cricket enthusiast <br>
+🎯 Mission: To turn data into meaningful, real-world impact
 </p>
 
 ---
@@ -62,47 +63,42 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 🧠 Key Projects
 
-#### 🛳️ [Titanic Survival Prediction](https://github.com/Priti115/Titanic)
-Exploratory data analysis of Titanic dataset using Pandas, NumPy, and visualization tools.  
-✅ Tools: Python, Matplotlib, Seaborn
+#### 🛳️ Titanic Survival Prediction
+Explored survival patterns using EDA and visualization techniques.  
+✅ Python, Pandas, Seaborn  
 
-#### 🍕 [Pizza Sales Analysis (SQL)](https://github.com/Priti115/PizzaAnalysis)
-Analyzed pizza order patterns to reveal top sellers, revenue trends, and size preferences.  
-✅ Tools: SQL, MySQL
+#### 🍕 Pizza Sales Analysis (SQL)
+Analyzed customer preferences and revenue trends using SQL queries.  
+✅ MySQL  
 
-#### 📊 [HR Analytics Dashboard](https://drive.google.com/file/d/1oJ7y4gPvtip0cQ6k6vCmmyynhCNc7RdR/view?usp=sharing)  
-Built an interactive Power BI dashboard to analyze attrition trends and employee data.  
-✅ Tools: Power BI, Excel
+#### 📊 HR Analytics Dashboard
+Interactive dashboard analyzing employee attrition trends.  
+✅ Power BI  
 
-#### 🛎️ [Hotel Booking Cancellation Analysis](https://github.com/Priti115/Hotel_Cancelation)
-Uncovered cancellation factors through EDA to help optimize booking policies.  
-✅ Tools: Python, Pandas, Seaborn
+#### 🛎️ Hotel Booking Cancellation Analysis
+Identified cancellation patterns and business insights.  
+✅ Python, EDA  
 
-#### 🗳️ [2024 Election Data Analysis (Power BI)](https://www.canva.com/design/DAGeEPWYeuY/bLtuyRnj9DRi1RvdxE77nA/edit)
-Created a dashboard to analyze voter behavior and predict election outcomes.  
-✅ Tools: Power BI
+#### 🔄 Email Validation & Correction
+Processed 160K+ records using regex & data cleaning.  
+✅ Python, Pandas  
 
-#### 🔄 [Email Validation & Correction Project](https://github.com/Priti115/Email-Correction)
-Cleaned and validated 160k+ emails using regex, string operations, and Pandas. 
-✅ Tools: Python, Pandas, Regex
-
-#### ✨ [Web Analytics Dashboard](https://github.com/Priti115/Web-Analytics-GA4)
-Analyzed user behavior from GA4-style data and visualized trends using Plotly.  
-✅ Tools: Python, Plotly, Pandas
+#### 🌐 Web Analytics Dashboard
+Analyzed user behavior & engagement patterns.  
+✅ Python, Plotly  
 
 ---
 
 ### 🏆 Achievements & Certifications
 
-- 🧠 Presented research on *"Application of Neuroscience using AI & ML"* at ICRISD 2024  
-- 👩‍💻 NeoXGrind Hackathon (2024) – Hacker Role  
+- 🧠 Research Presentation – *AI & Neuroscience* (ICRISD 2024)  
+- 👩‍💻 Hackathons: NeoXGrind, SheBuilds (Top 10)  
 - 🏅 Python Certification – Infosys  
-- 🏅 C Programming – IIT Bombay (Score: 92%)
+- 🏅 C Programming – IIT Bombay (92%)  
 
 ---
 
@@ -114,17 +110,24 @@ Analyzed user behavior from GA4-style data and visualized trends using Plotly.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priti115&theme=react-dark&hide_border=true&area=true&custom_title=🔥%20My%20Contribution%20Graph%20" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priti115&theme=react-dark&hide_border=true&area=true" />
 </p>
+
+---
+
+### ✨ Beyond Tech
+
+📚 I’m deeply passionate about novels — especially thriller, suspense, and romance  
+✍️ I believe storytelling and data science both uncover hidden patterns  
+🎨 Painting & creativity help me think differently in problem-solving  
 
 ---
 
 ### 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pritidarshini-biswal-24414028a/)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/pritidarshini-biswal-24414028a/  
 - 📧 Email: pritidarshini.biswal2006@gmail.com  
-- 🗌 Based in: Delhi, India  
-- 🌐 Portfolio: [euphonious-treacle-8c4965.netlify.app](https://euphonious-treacle-8c4965.netlify.app/)
+- 🌐 Portfolio: https://euphonious-treacle-8c4965.netlify.app/  
 
 ---
 
